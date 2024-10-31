@@ -22,7 +22,7 @@ Install dependencies:
 
 
 
-     python src/chatbot.py
+        python src/chatbot.py
 
 
 
