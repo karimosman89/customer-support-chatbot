@@ -1,1 +1,30 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening"],
+            "responses": ["Hello! How can I help you today?", "Hi there! What can I assist you with?", "Hey! How can I help you?"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye", "Take care"],
+            "responses": ["Goodbye! Have a great day!", "See you later!", "Take care!"]
+        },
+        {
+            "tag": "order_status",
+            "patterns": ["Where is my order?", "Order status", "Track my order", "Order tracking"],
+            "responses": ["Please provide your order ID to check the status.", "I'll need your order ID to find the status."]
+        },
+        {
+            "tag": "refund",
+            "patterns": ["I want a refund", "Return my money", "How to request a refund?"],
+            "responses": ["To request a refund, please visit our refund policy page.", "I'll help you with the refund. Please provide your order ID."]
+        },
+        {
+            "tag": "product_inquiry",
+            "patterns": ["Tell me about your products", "What do you sell?", "Product information"],
+            "responses": ["We offer a wide range of products. Please specify the type of product you're interested in."]
+        }
+    ]
+}
 
