@@ -1,0 +1,8 @@
+{
+  "responses": {
+    "greet": ["Hello! How can I assist you today?", "Hi there! What can I help you with?"],
+    "goodbye": ["Goodbye! Have a great day!", "Take care!"],
+    "order_status": ["Can you provide your order ID?", "I’ll need your order ID to check the status."],
+    "refund_request": ["To request a refund, visit our refund page or contact support.", "I’ll help you with your refund. Please provide your order ID."]
+  }
+}
