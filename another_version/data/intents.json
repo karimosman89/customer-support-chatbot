@@ -1,0 +1,28 @@
+{
+  "intents": [
+    {
+      "intent": "greet",
+      "examples": [
+        "Hello", "Hi", "Hey there", "Good morning", "Good evening"
+      ]
+    },
+    {
+      "intent": "goodbye",
+      "examples": [
+        "Goodbye", "See you later", "Bye", "Take care"
+      ]
+    },
+    {
+      "intent": "order_status",
+      "examples": [
+        "Where is my order?", "Can you check my order?", "Order status"
+      ]
+    },
+    {
+      "intent": "refund_request",
+      "examples": [
+        "I need a refund", "How do I get a refund?", "Request for refund"
+      ]
+    }
+  ]
+}
